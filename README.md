@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spurszonee
 - 👀 I’m interested in learn coding and make friends with coders
-- 🌱 I’m currently learning SQL & PL/SQL
+- 🌱 I’m currently learning SQL & PL/SQL, Informatica PC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : DM me
 - 😄 Pronouns: I am a man
